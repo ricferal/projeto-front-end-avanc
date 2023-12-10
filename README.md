@@ -58,6 +58,7 @@ Este projeto foi criado usando [Create React App](https://react.dev/learn/start-
     ![](/public/assets/image.png)
 - Como as chamadas foram simuladas (o acesso aos arquivos de dados?)
   - Resposta:
+  
   ![](/public/assets/image-1.png)
 
   - Através da criação de um arquivo .json para os três módulos.
@@ -73,7 +74,7 @@ Este projeto foi criado usando [Create React App](https://react.dev/learn/start-
 
      - Resposta: __estudantes__ ,__cursos__,__pagamentos__, __dashboard__, __cadastro de estudantes (form)__.
     Componentes reutilizados:
-    
+
    ![](/public/assets/image-4.png)
   
       
