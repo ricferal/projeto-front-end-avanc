@@ -25,7 +25,7 @@ Este projeto foi criado usando [Create React App](https://react.dev/learn/start-
  
  - [Baixar o projeto do GitHub](https://github.com/ricferal/projeto-front-end-avanc/tree/main)
    
-   ![Alt text](image-7.png)
+   ![](/public/assets/image-7.png)
 
  - `cd pasta_do_projeto`
 
@@ -49,34 +49,32 @@ Este projeto foi criado usando [Create React App](https://react.dev/learn/start-
  - https://github.com/ricferal/projeto-front-end-avanc/tree/main/figma
 
 
-
-
-
  # Perguntas/Respostas sobre a aplicação:
 - Qual objetivo da aplicação?
   - Resposta: realizar gerenciamento de cadastro de Cursos (CRUD) com os respectivos módulos: Curso, Estudante e Pagamento.
 - Qual são as três páginas projetadas no Figma?
   - Resposta:
-   ![Alt text](image.png)
+
+    ![](/public/assets/image.png)
 - Como as chamadas foram simuladas (o acesso aos arquivos de dados?)
   - Resposta:
-
-  ![Alt text](image-1.png)
+  ![](/public/assets/image-1.png)
 
   - Através da criação de um arquivo .json para os três módulos.
   - Para cada módulo foi realizado a chamada desse .json e seu acesso foi feito utilizando useEffect:
 
-  ![Alt text](image-2.png)
+  ![](/public/assets/image-2.png)
 
   - Depois utilizamos essa valor armazenado nessa variável na definição da DataGrid(tabela):
 
-  ![Alt text](image-3.png)
+    ![](/public/assets/image-3.png)
 
 - Quais as três páginas desenvolvidas e os componentes que foram reutilizados?
 
      - Resposta: __estudantes__ ,__cursos__,__pagamentos__, __dashboard__, __cadastro de estudantes (form)__.
     Componentes reutilizados:
-
-    ![Alt text](image-4.png)
+    
+   ![](/public/assets/image-4.png)
+  
       
 
