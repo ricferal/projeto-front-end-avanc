@@ -33,11 +33,14 @@ Este projeto foi criado usando [Create React App](https://react.dev/learn/start-
 
 # Projeto Figma (Protótipo)
 
- Link de acesso:
+ Link de acesso ao Projeto:
  - [https://www.figma.com/file/NueuP3QBWflw0M0QbAFLo4/Crud-Operations-(Community)?type=design&node-id=0-1&mode=design&t=ylXa9ZohyYhOPCaI-0](https://www.figma.com/file/NueuP3QBWflw0M0QbAFLo4/Crud-Operations-(Community)?type=design&node-id=0-1&mode=design&t=ylXa9ZohyYhOPCaI-0).
 
  Protótipo com interatividade:
  - [https://www.figma.com/proto/NueuP3QBWflw0M0QbAFLo4/Crud-Operations-(Community)?type=design&node-id=17-2&t=ylXa9ZohyYhOPCaI-0&scaling=min-zoom&page-id=0%3A1](https://www.figma.com/proto/NueuP3QBWflw0M0QbAFLo4/Crud-Operations-(Community)?type=design&node-id=17-2&t=ylXa9ZohyYhOPCaI-0&scaling=min-zoom&page-id=0%3A1).
+
+  Projeto Figma (GitHub):
+ - https://github.com/ricferal/projeto-front-end-avanc/tree/main/figma
 
 
 
