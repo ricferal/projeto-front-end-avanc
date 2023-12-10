@@ -21,6 +21,12 @@ Este projeto foi criado usando [Create React App](https://react.dev/learn/start-
  - `npm start`
 
 # Quando o projeto já existe:
+
+ 
+ - [Baixar o projeto do GitHub](https://github.com/ricferal/projeto-front-end-avanc/tree/main)
+   
+   ![Alt text](image-7.png)
+
  - `cd pasta_do_projeto`
 
  - `npm install`
