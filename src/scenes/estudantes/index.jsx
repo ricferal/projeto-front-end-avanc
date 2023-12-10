@@ -1,7 +1,7 @@
 import DeleteIcon from '@mui/icons-material/Delete';
 import ModeEditIcon from '@mui/icons-material/ModeEdit';
 import SchoolIcon from "@mui/icons-material/School";
-import { Box, Button, useTheme } from "@mui/material";
+import { Box, useTheme } from "@mui/material";
 import { DataGrid } from "@mui/x-data-grid";
 import { useEffect, useState } from "react";
 import { Link } from 'react-router-dom';

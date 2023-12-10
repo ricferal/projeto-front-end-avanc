@@ -9,9 +9,19 @@ Este projeto consiste no gerenciamento de Cursos , através de operações de CR
 
 ## Configuração do Ambiente
 
-Este projeto foi criado usando [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi criado usando [Create React App](https://react.dev/learn/start-a-new-react-project).
 
-No projeto do diretório, podemos executar:
+## Para criar um projeto do zero podemos realizar o seguinte:
+
+### `npx create-react-app my-app`
+
+### `cd my-app`
+
+### `npm install`
+
+### `npm start`
+
+## Quando o projeto já existe:
 
 ### `npm install`
 
