@@ -12,20 +12,20 @@ Este projeto foi criado usando [Create React App](https://react.dev/learn/start-
 
 # Para criar um projeto do zero podemos realizar o seguinte:
 
- `npx create-react-app my-app`
+ - `npx create-react-app my-app`
 
- `cd my-app`
+ - `cd my-app`
 
- `npm install`
+ - `npm install`
 
- `npm start`
+ - `npm start`
 
 # Quando o projeto já existe:
- `cd pasta_do_projeto`
+ - `cd pasta_do_projeto`
 
- `npm install`
+ - `npm install`
 
- `npm start`
+ - `npm start`
 
 
 # Executando a aplicação no modo desenvolvimento
