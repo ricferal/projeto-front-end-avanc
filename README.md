@@ -29,12 +29,19 @@ Este projeto foi criado usando [Create React App](https://react.dev/learn/start-
 
 
 # Executando a aplicação no modo desenvolvimento
-Acesse [http://localhost:3000](http://localhost:3000) para visualizar no seu browser.
+- Acesse [http://localhost:3000](http://localhost:3000) para visualizar no seu browser.
 
-# Projeto Figma 
+# Projeto Figma (Protótipo)
 
- O link de acesso:
- Acesse [https://www.figma.com/](https://www.figma.com/).
+ Link de acesso:
+ - [https://www.figma.com/file/NueuP3QBWflw0M0QbAFLo4/Crud-Operations-(Community)?type=design&node-id=0-1&mode=design&t=ylXa9ZohyYhOPCaI-0](https://www.figma.com/file/NueuP3QBWflw0M0QbAFLo4/Crud-Operations-(Community)?type=design&node-id=0-1&mode=design&t=ylXa9ZohyYhOPCaI-0).
+
+ Protótipo com interatividade:
+ - [https://www.figma.com/proto/NueuP3QBWflw0M0QbAFLo4/Crud-Operations-(Community)?type=design&node-id=17-2&t=ylXa9ZohyYhOPCaI-0&scaling=min-zoom&page-id=0%3A1](https://www.figma.com/proto/NueuP3QBWflw0M0QbAFLo4/Crud-Operations-(Community)?type=design&node-id=17-2&t=ylXa9ZohyYhOPCaI-0&scaling=min-zoom&page-id=0%3A1).
+
+
+
+
 
  # Perguntas/Respostas sobre a aplicação:
 - Qual objetivo da aplicação?
