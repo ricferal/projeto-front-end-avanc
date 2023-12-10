@@ -7,9 +7,9 @@ import { useEffect, useState } from "react";
 import { Link } from 'react-router-dom';
 import Header from "../../components/Header";
 import { tokens } from "../../theme";
-import estudantes from '../../data/estudantes.json';
 import { Link as RouterLink } from 'react-router-dom'
 import Botao from "../../components/Botao";
+import estudantes from '../../data/estudantes.json';
 
 
 const Estudantes  = () => {
