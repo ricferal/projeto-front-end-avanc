@@ -1,10 +1,10 @@
 # Gerenciamento de Cursos (CRUD)
 
 Este projeto consiste no gerenciamento de Cursos , através de operações de CRUD(Inserir/Editar/Atualizar/Remover) através dos seguintes módulos:
-# **Curso:     página de visualização de cursos cadastrados.
-# **Estudante: página de visualização de estudantes cadastrados. 
-# **Pagamento: página de visualização de pagamentos realizados.
-# **DashBoard: painel para visualização rápida de cada módulo, com quantitativo de cadastro de cada módulo.
+ - __Curso__:     página de visualização de cursos cadastrados.
+ - __Estudante__: página de visualização de estudantes cadastrados. 
+ - __Pagamento__: página de visualização de pagamentos realizados.
+ - __DashBoard__: painel para visualização rápida de cada módulo, com quantitativo de cadastro de cada módulo.
 
 # Configuração do Ambiente
 
