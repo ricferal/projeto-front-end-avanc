@@ -36,13 +36,13 @@ Acesse [http://localhost:3000](http://localhost:3000) para visualizar no seu bro
  O link de acesso:
  Acesse [https://www.figma.com/](https://www.figma.com/).
 
- # Perguntas sobre a aplicação:
+ # Perguntas/Respostas sobre a aplicação:
 - Qual objetivo da aplicação?
   - Resposta: realizar gerenciamento de cadastro de Cursos (CRUD) com os respectivos módulos: Curso, Estudante e Pagamento.
 - Qual são as três páginas projetadas no Figma?
   - Resposta:
    ![Alt text](image.png)
-- Como as chamadas foram simuladas (o acesso aos arquivos de dados?
+- Como as chamadas foram simuladas (o acesso aos arquivos de dados?)
   - Resposta:
 
   ![Alt text](image-1.png)
