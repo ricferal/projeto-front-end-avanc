@@ -1,0 +1,56 @@
+{
+ "pagamento": [
+
+  {
+    "id": 1,
+    "nome": "Fulano",
+    "pagamentoAgendado": "Primeiro",
+    "numeroConta": "0011111",
+    "quantiaPaga": "300",
+    "valorSaldo": "R$ 100",
+    "data": "25/03/2022"
+
+  },
+  {
+    "id": 2,
+    "nome": "Ciclano",
+    "pagamentoAgendado": "Primeiro",
+    "numeroConta": "0022222",
+    "quantiaPaga": "100",
+    "valorSaldo": "R$ 10",
+    "data": "04/07/2023"
+
+  },
+
+  {
+    "id": 3,
+    "nome": "Beltrano",
+    "pagamentoAgendado": "Primeiro",
+    "numeroConta": "0033333",
+    "quantiaPaga": "350",
+    "valorSaldo": "R$ 123",
+    "data": "02/03/2021"
+
+  },
+  {
+    "id": 4,
+    "nome": "Teste",
+    "pagamentoAgendado": "Primeiro",
+    "numeroConta": "0044444",
+    "quantiaPaga": "255",
+    "valorSaldo": "R$ 50",
+    "data": "15/03/2022"
+
+  }
+
+]
+
+}
+
+
+
+
+
+
+
+
