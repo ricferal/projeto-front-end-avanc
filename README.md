@@ -58,9 +58,9 @@ Acesse [http://localhost:3000](http://localhost:3000) para visualizar no seu bro
 
 - Quais as três páginas desenvolvidas e os componentes que foram reutilizados?
 
-     - Resposta: estudantes,cursos,pagamentos, dashboard, cadastro de estudantes (form).
+     - Resposta: __estudantes__ ,__cursos__,__pagamentos__, __dashboard__, __cadastro de estudantes (form)__.
     Componentes reutilizados:
-    
+
     ![Alt text](image-4.png)
       
 
